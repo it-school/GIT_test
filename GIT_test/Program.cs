@@ -11,6 +11,7 @@ namespace GIT_test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("Students!!!");
         }
     }
 }
