@@ -12,6 +12,7 @@ namespace GIT_test
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Students!!!");
+            return;
         }
     }
 }
